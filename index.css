@@ -5,6 +5,7 @@
 * {
     font-family: "PS2P", monospace;
     box-sizing: border-box;
+    -webkit-appearance: none;
 }
 body {
 
