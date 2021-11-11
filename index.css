@@ -61,7 +61,7 @@ html, body {
     position: fixed;
     left: 20px;
     bottom: 20px;
-    width: 100%;
+    width: 95%;
     color: white;
     animation-name: fadeIn;
     animation-delay: 3s;
